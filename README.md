@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <!-- 动态打字效果 -->
 <h1 align="center">
-  <a href="https://blog.anheyu.com/">
+  <a href="https://www.staraway.asia/">
     <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=多一点努力，努力多一点.;console.log(%22Fightting%EF%BC%8Call of you%22)">
   </a>
 </h1>
