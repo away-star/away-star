@@ -30,4 +30,4 @@ Here are some ideas to get you started:
 <div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=away-star&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /></div>
 <br>
 
-- 📫 How to reach me: <a href="https://www.douban.com/people/252613592" target="_blank">go my blog</a>
+- 📫 How to reach me: <a href="https://www.staraway.asia/" target="_blank">go my blog</a>
